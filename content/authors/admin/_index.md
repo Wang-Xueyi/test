@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher at University of Groningen
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of Groningen
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:xueyi.wang@rug.nl'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
