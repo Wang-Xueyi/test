@@ -22,7 +22,23 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, smart rehabilitation and smart Health.
+
+# Interests to show in About widget
+interests:
+  - Deep learning
+  - Time series analysis
+  - Multi-modal Learning
+  - Smart rehabilitation
+  - Smart Health
+
+# Interests to show in About widget
+interests:
+  - Deep learning
+  - Time series analysis
+  - Multi-modal Learning
+  - Smart rehabilitation
+  - Smart Health
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
