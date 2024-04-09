@@ -32,13 +32,18 @@ interests:
   - Smart rehabilitation
   - Smart Health
 
-# Interests to show in About widget
-interests:
-  - Deep learning
-  - Time series analysis
-  - Multi-modal Learning
-  - Smart rehabilitation
-  - Smart Health
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD
+      institution: University of Groningen
+      year: 2024
+    - course: MEng
+      institution: University of Science and Tenchnology of China
+      year: 2017
+    - course: BSc 
+      institution: SiChuna University
+      year: 2014
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
