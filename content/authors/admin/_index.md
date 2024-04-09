@@ -51,6 +51,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xueyi Wang is a postdoc researcher at the Discrete Technology & Production Automation (DTPA), University of Groningen. He is a dedicated researcher with a keen interest in the field of smart health, focusing on learning from multi-modal time series data. His work aims to harness the power of diverse data types to advance healthcare technologies and improve patient outcomes. Outside of his academic pursuits, He is an avid sports enthusiast. He actively participates in a variety of athletic activities, including basketball, running, skiing, and scuba diving. These hobbies not only reflect his dynamic and adventurous spirit but also complement his dedication to understanding and promoting health and wellness through his research.
